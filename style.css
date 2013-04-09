@@ -119,6 +119,9 @@ body {
 			font-size:32px;
 			line-height:40px;
 		}
+		h2 a {
+			text-decoration: none;
+		}
 		h3 {
 			font-size:18px;
 			
@@ -191,6 +194,16 @@ body {
 			font-size:13px;
 			line-height:22px;
 			
+		}
+		.sidebar ul.icon-list {
+			margin-top:20px;
+			list-style-type:none;
+			text-indent:0;
+			padding-left:0px;
+		}
+		.sidebar ul.icon-list .icon {
+			margin-right:9px;
+			vertical-align: middle;
 		}
 		.part {
 			display:block;
